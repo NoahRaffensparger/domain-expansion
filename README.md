@@ -1,6 +1,6 @@
 # Domain Expansion
 
-This is a small project I created that uses multiple API's to cross reference available domains with recent top google searches. 
+This is a small project I created that uses multiple API's to cross reference available domains with recent top google searches. Most code is in the server folder.
 
 ## Setup
 
